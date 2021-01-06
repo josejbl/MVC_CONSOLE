@@ -33,7 +33,7 @@ namespace MVC_CONSOLE.Models
             throw new NotImplementedException();
         }
 
-        public List<Produto> ler()
+        public List<Produto> Ler()
         {
             List<Produto> produtos = new List<Produto>();
 
@@ -54,14 +54,18 @@ namespace MVC_CONSOLE.Models
                  prod.Preco   = float.Parse(atributos[2]);
                  
                  produtos.Add(prod);
-
-
-           
-
             }
-
-
             return produtos;
+        }
+        public void Inserir(Produto p)
+        {
+           string[] linhas = { PrepararLinhasCSV(p) };
+
+           File.AppendAllLines(PATH, linhas);
+        }
+        public string PrepararLinhasCSV(Produto prod)
+        {
+            return $"{prod.Codigo};{prod.Nome};{prod.Preco}";
         }
         
         

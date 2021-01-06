@@ -11,3 +11,16 @@ C:\Users\Desktop\Desktop\MVC_CONSOLE\bin\Debug\netcoreapp3.1\MVC_CONSOLE.pdb
 C:\Users\Desktop\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.dll
 C:\Users\Desktop\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.pdb
 C:\Users\Desktop\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.genruntimeconfig.cache
+C:\Users\fic\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.AssemblyInfo.cs
+C:\Users\fic\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.dll
+C:\Users\fic\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.pdb
+C:\Users\fic\Desktop\MVC_CONSOLE\bin\Debug\netcoreapp3.1\MVC_CONSOLE.exe
+C:\Users\fic\Desktop\MVC_CONSOLE\bin\Debug\netcoreapp3.1\MVC_CONSOLE.deps.json
+C:\Users\fic\Desktop\MVC_CONSOLE\bin\Debug\netcoreapp3.1\MVC_CONSOLE.runtimeconfig.json
+C:\Users\fic\Desktop\MVC_CONSOLE\bin\Debug\netcoreapp3.1\MVC_CONSOLE.runtimeconfig.dev.json
+C:\Users\fic\Desktop\MVC_CONSOLE\bin\Debug\netcoreapp3.1\MVC_CONSOLE.dll
+C:\Users\fic\Desktop\MVC_CONSOLE\bin\Debug\netcoreapp3.1\MVC_CONSOLE.pdb
+C:\Users\fic\Desktop\MVC_CONSOLE\obj\Debug\netcoreapp3.1\MVC_CONSOLE.genruntimeconfig.cache
